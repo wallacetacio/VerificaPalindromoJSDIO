@@ -1,2 +1,2 @@
-# VerificaPalindronoJSDIO
-Atividade Verificar Palíndrono DIO
+# VerificaPalindromoJSDIO
+Atividade Verificar Palíndromo DIO
